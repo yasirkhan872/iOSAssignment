@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1488291C-1951-4B87-B86F-35371A552A53"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "921E8799-1C00-44ED-BFA1-F993934331D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignmentTests/viewmodels/test_news_viewmodel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "testLoadNewsFromAPIFailure()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "723EEB4D-14F1-420F-89AF-1E72BA9299A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignmentTests/viewmodels/test_news_viewmodel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "testLoadNewsFromAPIFailure()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9ACE716-8931-47D6-935C-96C65CEE9465"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignmentTests/viewmodels/test_news_viewmodel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "testLoadNewsFromAPIFailure()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF57E817-94C0-4397-90A6-8E525281DA26"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignmentTests/viewmodels/test_news_viewmodel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "getRequest(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6E6A865-57EC-469F-94B5-FA991AF1D4D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignmentTests/viewmodels/test_news_viewmodel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "getRequest(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1EC20E9-F7DD-4578-9ED7-B12120854B28"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignmentTests/viewmodels/test_news_viewmodel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "testLoadingState()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60BCCCB4-2ABE-4951-A81B-57AA0FA4DEE0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignmentTests/networking/test_networking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "testGetRequestFailureInvalidURL()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "60BCCCB4-2ABE-4951-A81B-57AA0FA4DEE0 - 2d61969702454cca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSAssignmentTests.NetworkServiceTests.testGetRequestFailureNoInternet() -&gt; ()"
+                  moduleName = "iOSAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/iOS%20Assignments/iOSAssignment/iOSAssignmentTests/networking/test_networking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "60BCCCB4-2ABE-4951-A81B-57AA0FA4DEE0 - 943ed85718828b90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;iOSAssignment.NetworkError&gt;) -&gt; () in iOSAssignmentTests.NetworkServiceTests.testGetRequestFailureInvalidURL() -&gt; ()"
+                  moduleName = "iOSAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/iOS%20Assignments/iOSAssignment/iOSAssignmentTests/networking/test_networking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4A605BF-2C60-4F80-8DB0-4C62CBECA8F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignmentTests/networking/test_networking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "testGetRequestFailureInvalidURL()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C4A605BF-2C60-4F80-8DB0-4C62CBECA8F9 - 2d61969702454d90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSAssignmentTests.NetworkServiceTests.testGetRequestFailureNoInternet() -&gt; ()"
+                  moduleName = "iOSAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/iOS%20Assignments/iOSAssignment/iOSAssignmentTests/networking/test_networking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "C4A605BF-2C60-4F80-8DB0-4C62CBECA8F9 - 8d7910c4fe5b1c44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSAssignmentTests.NetworkServiceTests.testGetRequestFailureInvalidURL() -&gt; ()"
+                  moduleName = "iOSAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/iOS%20Assignments/iOSAssignment/iOSAssignmentTests/networking/test_networking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68F5A732-0ADD-4FB9-9E0A-B1180517A2F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignmentTests/viewmodels/test_news_viewmodel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "getRequest(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68F5A732-0ADD-4FB9-9E0A-B1180517A2F7 - 5bb4d9242ae5f43b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSAssignmentTests.MockNetworkService.getRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: iOSAssignment.DataRequest&gt;(&#x3c4;_0_0) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0.Response, iOSAssignment.NetworkError&gt;"
+                  moduleName = "iOSAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/iOS%20Assignments/iOSAssignment/iOSAssignmentTests/viewmodels/test_news_viewmodel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "68F5A732-0ADD-4FB9-9E0A-B1180517A2F7 - cac63f1f6e4eb184"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;&#x3c4;_0_0.Response, iOSAssignment.NetworkError&gt;) -&gt; ()) -&gt; () in iOSAssignmentTests.MockNetworkService.getRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: iOSAssignment.DataRequest&gt;(&#x3c4;_0_0) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0.Response, iOSAssignment.NetworkError&gt;"
+                  moduleName = "iOSAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/iOS%20Assignments/iOSAssignment/iOSAssignmentTests/viewmodels/test_news_viewmodel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "862C525E-D32B-4B5E-911E-115C81257A8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignmentTests/viewmodels/test_news_viewmodel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "getRequest(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "862C525E-D32B-4B5E-911E-115C81257A8F - cac63f1f6e4eb1db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;&#x3c4;_0_0.Response, iOSAssignment.NetworkError&gt;) -&gt; ()) -&gt; () in iOSAssignmentTests.MockNetworkService.getRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: iOSAssignment.DataRequest&gt;(&#x3c4;_0_0) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0.Response, iOSAssignment.NetworkError&gt;"
+                  moduleName = "iOSAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/iOS%20Assignments/iOSAssignment/iOSAssignmentTests/viewmodels/test_news_viewmodel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "862C525E-D32B-4B5E-911E-115C81257A8F - cac63f1f6e4eb1db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;&#x3c4;_0_0.Response, iOSAssignment.NetworkError&gt;) -&gt; ()) -&gt; () in iOSAssignmentTests.MockNetworkService.getRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: iOSAssignment.DataRequest&gt;(&#x3c4;_0_0) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0.Response, iOSAssignment.NetworkError&gt;"
+                  moduleName = "iOSAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/iOS%20Assignments/iOSAssignment/iOSAssignmentTests/viewmodels/test_news_viewmodel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D69895EF-7951-4462-BA97-1C2E75416805"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignment/Networking/Manager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getRequest(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D69895EF-7951-4462-BA97-1C2E75416805 - 4dd2c5cf6190724f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSAssignment.NetworkManager.getRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: iOSAssignment.DataRequest&gt;(&#x3c4;_0_0) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0.Response, iOSAssignment.NetworkError&gt;"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/iOS%20Assignments/iOSAssignment/iOSAssignment/Networking/Manager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1164">
+               </Location>
+               <Location
+                  uuid = "D69895EF-7951-4462-BA97-1C2E75416805 - 4dd2c5cf6190724f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSAssignment.NetworkManager.getRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: iOSAssignment.DataRequest&gt;(&#x3c4;_0_0) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0.Response, iOSAssignment.NetworkError&gt;"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/iOS%20Assignments/iOSAssignment/iOSAssignment/Networking/Manager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4AF852A-EFAA-4E81-B9F4-8FC0A40A951B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignment/Networking/Manager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "getRequest(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
